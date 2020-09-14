@@ -1,0 +1,6 @@
+sidpy.sid.dataset.ensure\_dask\_array
+=====================================
+
+.. currentmodule:: sidpy.sid.dataset
+
+.. autofunction:: ensure_dask_array

@@ -1,0 +1,28 @@
+sidpy.viz.dataset\_viz.PlotTypes
+================================
+
+.. currentmodule:: sidpy.viz.dataset_viz
+
+.. autoclass:: PlotTypes
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~PlotTypes.IMAGE
+      ~PlotTypes.IMAGE_4D
+      ~PlotTypes.IMAGE_STACK
+      ~PlotTypes.SPECTRAL_IMAGE
+      ~PlotTypes.SPECTRUM
+   
+   

@@ -1,0 +1,6 @@
+sidpy.sid.dataset.get\_chunks
+=============================
+
+.. currentmodule:: sidpy.sid.dataset
+
+.. autofunction:: get_chunks

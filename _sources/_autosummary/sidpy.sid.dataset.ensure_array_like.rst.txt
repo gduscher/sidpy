@@ -1,0 +1,6 @@
+sidpy.sid.dataset.ensure\_array\_like
+=====================================
+
+.. currentmodule:: sidpy.sid.dataset
+
+.. autofunction:: ensure_array_like

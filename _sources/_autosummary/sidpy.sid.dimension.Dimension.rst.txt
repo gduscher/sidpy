@@ -1,0 +1,35 @@
+sidpy.sid.dimension.Dimension
+=============================
+
+.. currentmodule:: sidpy.sid.dimension
+
+.. autoclass:: Dimension
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Dimension.copy
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Dimension.dimension_type
+      ~Dimension.name
+      ~Dimension.quantity
+      ~Dimension.units
+      ~Dimension.values
+   
+   
